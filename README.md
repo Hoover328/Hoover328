@@ -3,7 +3,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:180008,30:5c001f,60:8b0055,80:6a0dad,100:240044&text=Welcome%20to%20My%20GitHub%20&section=header&textBg=false&fontSize=45&fontColor=ffffff&fontAlign=50&animation=scaleIn&stroke=000000&strokeWidth=3)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   [![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarveyDanSmith@Gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harvey-smith-9715ab36b/)  [![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarveyDanSmith@Gmail.com) 
 
 
 # 💫 About Me:
