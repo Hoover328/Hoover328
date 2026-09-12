@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-Hello! My name is Harvey Smith, I am a Third-year Computing student @ MTU Kerry
+Hello! My name is Harvey Smith, I am a Third-year Computing student @ MTU Kerry <br>
 I build games & interactive software projects using C#/Java 
 
 Currently developing my skills in coding and searching for work placements with the goal of pursuing a career in computers 
