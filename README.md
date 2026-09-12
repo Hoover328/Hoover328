@@ -25,6 +25,8 @@ Hello! My name is Harvey Smith, I am a third-year computing student in MTU Kerry
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 ![BottomBanner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:180008,30:5c001f,60:8b0055,80:6a0dad,100:240044&section=footer&textBg=false&fontSize=45&fontColor=ffffff&fontAlign=50&animation=scaleIn&stroke=000000&strokeWidth=2)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
